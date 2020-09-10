@@ -1,0 +1,6 @@
+D:\MyProject2.0\OAManageSys\OA.Common\obj\Debug\OA.Common2.csprojAssemblyReference.cache
+D:\MyProject2.0\OAManageSys\OA.Common\obj\Debug\OA.Common2.csproj.CoreCompileInputs.cache
+D:\MyProject2.0\OAManageSys\OA.Common\bin\Debug\Common2.dll
+D:\MyProject2.0\OAManageSys\OA.Common\bin\Debug\Common2.pdb
+D:\MyProject2.0\OAManageSys\OA.Common\obj\Debug\Common2.dll
+D:\MyProject2.0\OAManageSys\OA.Common\obj\Debug\Common2.pdb

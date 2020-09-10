@@ -1,0 +1,13 @@
+D:\MyProject2.0\OAManageSys\Common\bin\Debug\Common.dll
+D:\MyProject2.0\OAManageSys\Common\bin\Debug\Common.pdb
+D:\MyProject2.0\OAManageSys\Common\obj\Debug\Common.dll
+D:\MyProject2.0\OAManageSys\Common\obj\Debug\Common.pdb
+D:\MyProject2.0\OAManageSys\Common\obj\Debug\OA.Common.csprojAssemblyReference.cache
+D:\MyProject2.0\OAManageSys\Common\obj\Debug\OA.Common.csproj.CoreCompileInputs.cache
+D:\MyProject2.0\OAManageSys\Common\bin\Debug\log4net.dll
+D:\MyProject2.0\OAManageSys\Common\bin\Debug\Newtonsoft.Json.dll
+D:\MyProject2.0\OAManageSys\Common\bin\Debug\NPOI.dll
+D:\MyProject2.0\OAManageSys\Common\bin\Debug\NPOI.OOXML.dll
+D:\MyProject2.0\OAManageSys\Common\bin\Debug\NPOI.OpenXml4Net.dll
+D:\MyProject2.0\OAManageSys\Common\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\MyProject2.0\OAManageSys\Common\obj\Debug\OA.Common.csproj.CopyComplete

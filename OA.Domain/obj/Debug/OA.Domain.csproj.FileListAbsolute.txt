@@ -1,0 +1,6 @@
+D:\MyProject2.0\OAManageSys\OA.Domain\bin\Debug\OA.Domain.dll
+D:\MyProject2.0\OAManageSys\OA.Domain\bin\Debug\OA.Domain.pdb
+D:\MyProject2.0\OAManageSys\OA.Domain\obj\Debug\OA.Domain.dll
+D:\MyProject2.0\OAManageSys\OA.Domain\obj\Debug\OA.Domain.pdb
+D:\MyProject2.0\OAManageSys\OA.Domain\obj\Debug\OA.Domain.csprojAssemblyReference.cache
+D:\MyProject2.0\OAManageSys\OA.Domain\obj\Debug\OA.Domain.csproj.CoreCompileInputs.cache
